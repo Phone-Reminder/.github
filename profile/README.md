@@ -11,6 +11,7 @@
 
 ## About
 **Date of completion: 16/02/2023**
+
 **Authors: Benjamin Tracey and Sweta Shah**
 
 **Deployed Website: https://reminders-bt-ss.netlify.app/**
