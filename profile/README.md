@@ -18,7 +18,7 @@
  
 This is a full-stack passion project. A REST API was developed with **Go** using [Gin](https://github.com/gin-gonic/gin) framework. A React client was developed using **TypeScipt**. 
 
-A user can enter their phone number, the date/time they want a reminder to be sent, and the message contents. These details are then stored using **MongoDB**. Then using Twilio API, the user will recieve the reminder as an SMS at the given time. However, due to Twilio free-trial limiations the app will only work with phone numbers verified by Twilio. 
+A user can enter their phone number, the date/time they want a reminder to be sent, and the message contents. These details are then stored using **MongoDB**. Then using Twilio API, the user will recieve the reminder as an SMS at the given time. **However, due to Twilio free-trial limiations the app will only work with phone numbers verified by Twilio. **
 
 ## Getting Started
 
